@@ -1,0 +1,196 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+
+
+h1 {
+    font-size: 45px;
+    font-style: italic;
+    color: #61764B;
+    display: inline-block;
+    margin-top: 90px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 5px red;
+    
+   
+}
+
+
+table {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding: 17px;
+    background-color: #FFB9B9;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.mainpic {
+  width: 50%;
+}
+
+
+
+
+.mountain {
+    width: 50%;
+}
+
+
+.computer {
+    width: 50%;
+    height: 50%;
+}
+
+.sub {
+    font-size: 1rem;
+    
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: underline;
+    text-shadow: 0px 0px 5px greenyellow;
+}
+
+
+
+
+h3 {
+
+}
+
+
+
+
+p {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+.c1 {
+    background-color: #FFB9B9;
+}
+
+
+
+.c2 {
+background-color: 
+}
+
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.skill-row2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.computer {
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+.chilli {
+    width: 25%;
+    float: right;
+    margin-left: 6%;
+}
+
+
+
+.profile {
+    background-color:
+}
+
+
+
+.bottom-container {
+   background-color: #9BA17B;
+    
+}
+
+
+
+.cloud1 {
+    position: absolute;
+    right: 30%;
+    margin-top: 30px;
+}
+
+
+
+.cloud2 {
+    position: absolute;
+    left: 30%;
+}
+
+
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(0, 115, 128);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  
+
+@-webkit-keyframes pop-on-hover {
+    50% {
+      -webkit-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+  }
+  @keyframes pop-on-hover {
+    50% {
+      -webkit-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+  }
+  .pop-on-hover {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  }
+  .pop-on-hover:hover, .pop-on-hover:focus, .pop-on-hover:active {
+    -webkit-animation-name: pop-on-hover;
+    animation-name: pop-on-hover;
+    -webkit-animation-duration: 0.7s;
+    animation-duration: 0.7s;
+    -webkit-animation-timing-function: linear;
+    animation-timing-function: linear;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+  }
