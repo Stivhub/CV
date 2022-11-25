@@ -2,6 +2,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
+    background-color: lightblue;
 }
 
 
@@ -9,7 +10,7 @@ body {
 h1 {
     font-size: 45px;
     font-style: italic;
-    color: #61764B;
+    color: greenyellow;
     display: inline-block;
     margin-top: 90px;
     font-family: 'Pacifico', cursive;
@@ -25,13 +26,14 @@ table {
     top: 0;
     width: 100%;
     padding: 17px;
-    background-color: #FFB9B9;
+    background-color: #A6E3E9;
     font-family: 'Josefin Sans', sans-serif;
     
 }
 
 .mainpic {
-  width: 50%;
+  width: 30%;
+  border-radius: 15px 50px;
 }
 
 
@@ -58,7 +60,9 @@ table {
 
 
 
-h3 {
+h2 {
+  color: #dca030;
+  font-family: 'Play', sans-serif;
 
 }
 
@@ -72,13 +76,13 @@ p {
 
 
 .c1 {
-    background-color: #FFB9B9;
+    background-color: #dca030;
 }
 
 
 
 .c2 {
-background-color: 
+background-color: lightblue;
 }
 
 
