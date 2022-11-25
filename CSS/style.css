@@ -49,14 +49,6 @@ table {
     height: 50%;
 }
 
-.sub {
-    font-size: 1rem;
-    
-    font-family: 'Josefin Sans', sans-serif;
-    text-decoration: underline;
-    text-shadow: 0px 0px 5px greenyellow;
-}
-
 
 
 
@@ -65,6 +57,17 @@ h2 {
   font-family: 'Play', sans-serif;
 
 }
+
+
+
+.sub {
+  font-size: 1rem;
+  
+  font-family: 'Josefin Sans', sans-serif;
+  text-decoration: underline;
+  text-shadow: 0px 0px 5px greenyellow;
+}
+
 
 
 
